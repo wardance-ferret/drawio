@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T06:35:03.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="x999cAvdN13jJpHY7fw-" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T06:37:58.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="i7Pl9tXo2E0Xm58Z34Oe" version="23.1.2" type="github">
   <diagram name="Page-1" id="_8t34pe8LgDQ6QcARZgo">
     <mxGraphModel dx="993" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,14 +28,23 @@
         <mxCell id="kW8YT4vjqMHco3My90tB-38" value="Easy Chair" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-15;" vertex="1" parent="kW8YT4vjqMHco3My90tB-81">
           <mxGeometry x="25.113519212621554" y="40.1135192126215" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-73" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="kW8YT4vjqMHco3My90tB-43">
-          <mxGeometry x="170" y="135" width="210" height="80" as="geometry" />
+        <mxCell id="kW8YT4vjqMHco3My90tB-73" value="" style="group;rotation=-60;" vertex="1" connectable="0" parent="kW8YT4vjqMHco3My90tB-70">
+          <mxGeometry x="35" y="50" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-71" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="kW8YT4vjqMHco3My90tB-73">
+        <mxCell id="kW8YT4vjqMHco3My90tB-71" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="kW8YT4vjqMHco3My90tB-73">
           <mxGeometry width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-72" value="TREADMILL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="kW8YT4vjqMHco3My90tB-73">
-          <mxGeometry x="75" y="40" width="60" height="30" as="geometry" />
+        <mxCell id="kW8YT4vjqMHco3My90tB-72" value="TREADMILL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;" vertex="1" parent="kW8YT4vjqMHco3My90tB-73">
+          <mxGeometry x="68" y="38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW8YT4vjqMHco3My90tB-61" value="" style="group" vertex="1" connectable="0" parent="kW8YT4vjqMHco3My90tB-43">
+          <mxGeometry x="252.5" y="135" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kW8YT4vjqMHco3My90tB-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kW8YT4vjqMHco3My90tB-61">
+          <mxGeometry width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kW8YT4vjqMHco3My90tB-59" value="Tall Dresser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kW8YT4vjqMHco3My90tB-61">
+          <mxGeometry y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kW8YT4vjqMHco3My90tB-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -205,15 +214,6 @@
         <mxCell id="kW8YT4vjqMHco3My90tB-53" value="&lt;div&gt;37&quot; ^&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; V &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="810" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="655" y="505" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kW8YT4vjqMHco3My90tB-61">
-          <mxGeometry width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-59" value="Tall Dresser" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kW8YT4vjqMHco3My90tB-61">
-          <mxGeometry y="45" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="kW8YT4vjqMHco3My90tB-35" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="570" y="130" width="90" height="90" as="geometry" />
         </mxCell>
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="kW8YT4vjqMHco3My90tB-66" value="Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kW8YT4vjqMHco3My90tB-68">
           <mxGeometry x="50" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW8YT4vjqMHco3My90tB-82" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
