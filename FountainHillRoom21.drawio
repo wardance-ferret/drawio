@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T05:59:45.265Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="C3bc1R0402gO_3tNo70a" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T06:00:34.771Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="31oR8I9az7BxD5sxni6z" version="23.1.2" type="github">
   <diagram name="Page-1" id="_8t34pe8LgDQ6QcARZgo">
     <mxGraphModel dx="993" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -154,11 +154,11 @@
         <mxCell id="kW8YT4vjqMHco3My90tB-38" value="Easy Chair" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="kW8YT4vjqMHco3My90tB-36">
           <mxGeometry x="15" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-40" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="kW8YT4vjqMHco3My90tB-40" value="&lt;div&gt;Shower&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="755" y="485" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kW8YT4vjqMHco3My90tB-41" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="kW8YT4vjqMHco3My90tB-41" value="Sink" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kW8YT4vjqMHco3My90tB-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="245" y="430" width="265" height="260" as="geometry" />
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="kW8YT4vjqMHco3My90tB-42" value="King Size Bed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kW8YT4vjqMHco3My90tB-43">
           <mxGeometry x="75" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kW8YT4vjqMHco3My90tB-46" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="945" y="580" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
