@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T22:56:45.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="R3MPRxjxrhQNaJ11pMxa" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T22:58:49.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Y24aoVzj9WccA4tY6DK5" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,24 @@
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-49" value="Will I still be able be able to write the code?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="710" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-50" value="User EXperience Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-51" value="Software Quality Assurance" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="430" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="sourcePoint" />
+            <mxPoint x="330" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
