@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T22:58:49.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Y24aoVzj9WccA4tY6DK5" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T23:00:37.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_iYe38B5N64-YfSbrecR" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-18" value="&lt;pre data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Dear Valued [Zoom] Customer, &lt;br/&gt;&lt;br/&gt;Over the last several months,&lt;br&gt; we have been enriching the Zoom in-meeting chat experience&lt;br&gt; by introducing new features including threaded replies,&lt;br&gt; text formatting, delete, and more.&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="130" height="70" as="geometry" />
+          <mxGeometry x="530" y="45" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="0Xk1uaQBG85P3Tt0JiG1-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,33 +60,6 @@
             <mxPoint x="420" y="360" as="sourcePoint" />
             <mxPoint x="330" y="300" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-25" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-26" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-27" value="Wouldn&#39;t it be cool to build this?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="240" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-28" value="I&#39;m got some free time.&amp;nbsp; Let&#39;s do it!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="240" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="280" as="sourcePoint" />
-            <mxPoint x="770" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="920" y="280" as="sourcePoint" />
-            <mxPoint x="970" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-34" value="&lt;b&gt;The Wish&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-35" value="&lt;b&gt;Some Culture Clashes&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="430" width="60" height="30" as="geometry" />
@@ -159,6 +132,39 @@
             <mxPoint x="360" y="430" as="sourcePoint" />
             <mxPoint x="330" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="80" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-25" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-26" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry x="210" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-27" value="Wouldn&#39;t it be cool to build this?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry x="40" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-28" value="I&#39;m got some free time.&amp;nbsp; Let&#39;s do it!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry x="270" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="120" as="sourcePoint" />
+            <mxPoint x="90" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="120" as="sourcePoint" />
+            <mxPoint x="290" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-34" value="&lt;b&gt;The Wish&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
