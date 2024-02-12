@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T23:00:37.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_iYe38B5N64-YfSbrecR" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T23:01:47.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="mfrtPC5jXHTbzAOmTjIn" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-1" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="520" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-2" value="&amp;nbsp;Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="30" height="60" as="geometry" />
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-2" value="&amp;nbsp;Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-5" value="Third Party Software" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="40" width="30" height="60" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="130" as="sourcePoint" />
-            <mxPoint x="320" y="190" as="targetPoint" />
+            <mxPoint x="320" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-14" value="User Support Representative" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="229.5" as="sourcePoint" />
-            <mxPoint x="300" y="229.5" as="targetPoint" />
+            <mxPoint x="290" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-18" value="&lt;pre data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Dear Valued [Zoom] Customer, &lt;br/&gt;&lt;br/&gt;Over the last several months,&lt;br&gt; we have been enriching the Zoom in-meeting chat experience&lt;br&gt; by introducing new features including threaded replies,&lt;br&gt; text formatting, delete, and more.&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-37" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-39" value="&lt;h1&gt;Developer World&lt;br&gt;&lt;/h1&gt;&lt;p&gt;In many ways, your job may differ from a developer&#39;s job.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-39" value="&lt;h1&gt;Developer World&lt;br&gt;&lt;/h1&gt;&lt;p&gt;In many ways, your job may differ from a developer&#39;s job.&amp;nbsp; In other ways, it may resemble it.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-40" value="There is some software being used all around the world.&amp;nbsp; I want you to make just a few changes.&amp;nbsp; How long will it take?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
