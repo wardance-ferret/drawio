@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T23:01:47.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="mfrtPC5jXHTbzAOmTjIn" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T23:03:47.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="3h5KF8sn6b1FzDVSaldI" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-2" value="&amp;nbsp;Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-5" value="Third Party Software" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-6" value="Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -165,6 +165,24 @@
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-34" value="&lt;b&gt;The Wish&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
           <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-59" value="Other Developers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-60" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-62" value="Third Party Software" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-63" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
