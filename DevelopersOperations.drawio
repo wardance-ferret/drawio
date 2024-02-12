@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T22:41:20.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="aFedqzxA6kUZe4ybwWS6" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T22:44:09.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="L34Z1agmhUhU1C-hAhIQ" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,8 +27,8 @@
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=16;endSize=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="229.5" as="sourcePoint" />
-            <mxPoint x="290" y="229.5" as="targetPoint" />
+            <mxPoint x="220" y="229.5" as="sourcePoint" />
+            <mxPoint x="300" y="229.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-18" value="&lt;pre data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Dear Valued [Zoom] Customer, &lt;br/&gt;&lt;br/&gt;Over the last several months,&lt;br&gt; we have been enriching the Zoom in-meeting chat experience&lt;br&gt; by introducing new features including threaded replies,&lt;br&gt; text formatting, delete, and more.&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -71,13 +71,25 @@
           <mxGeometry x="720" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-28" value="I&#39;m got some free time.&amp;nbsp; Let&#39;s do it!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="950" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="280" as="sourcePoint" />
             <mxPoint x="770" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="280" as="sourcePoint" />
+            <mxPoint x="970" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-34" value="&lt;b&gt;The Wish&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-35" value="&lt;b&gt;Somebody already wrote some code&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
