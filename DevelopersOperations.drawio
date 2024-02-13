@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T06:16:22.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="WN4Yg2dWttCeYEsmJh6h" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T15:43:38.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="OVSPSamlqmw9Y4Xh2JMM" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-171" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1340" width="640" height="420" as="geometry" />
+        </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="10" width="870" height="580" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry y="140" width="690" height="420" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="900" width="640" height="380" as="geometry" />
+          <mxGeometry x="850" y="900" width="640" height="380" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-2" value="&amp;nbsp;Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="30" height="60" as="geometry" />
@@ -354,6 +357,42 @@
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-170" value="Was that from a Developer over in the Central European Time?&amp;nbsp; I wonder how these rumors get started." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="1380" width="115" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-172" value="&lt;b&gt;Fleshing out the Requirements&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-174" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-176" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1122.5" y="1427.5" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-177" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-180" value="User EXperience Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-182" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1620" width="60" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-183" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-184" value="Based on the user feedback, we want an extinguisher for the fire pit..." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="980" y="1350" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-185" value="&lt;div&gt;What if we create a game,&amp;nbsp;&lt;/div&gt;&lt;div&gt;and allow users to submit feature&lt;/div&gt;&lt;div&gt;&amp;nbsp;requests that wayt?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="960" y="1530" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-186" value="&lt;div&gt;We have to make our users play a game&lt;/div&gt;&lt;div&gt;&amp;nbsp;to figure out what they want?&lt;/div&gt;&lt;div&gt;How far will it push back the schedule?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1360" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-187" value="If the software fails after a few months, but we gathered requirements successfully, we can start again...maybe that is the &quot;game&quot;. ;-)" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1530" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-188" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
