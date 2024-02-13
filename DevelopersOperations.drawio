@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T15:58:02.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_hIXGWEngJGUEEjwmrMT" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T16:37:09.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="8xTRexscfoBqnB7VmGqv" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
-    <mxGraphModel dx="2165" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,7 +382,7 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-184" value="Based on the user feedback, we want an extinguisher for the fire pit..." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
           <mxGeometry x="980" y="1350" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-185" value="&lt;div&gt;What if we create a game,&amp;nbsp;&lt;/div&gt;&lt;div&gt;and allow users to submit feature&lt;/div&gt;&lt;div&gt;&amp;nbsp;requests that wayt?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-185" value="&lt;div&gt;What if we create a game,&amp;nbsp;&lt;/div&gt;&lt;div&gt;and allow users to submit feature&lt;/div&gt;&lt;div&gt;&amp;nbsp;requests that way?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
           <mxGeometry x="960" y="1530" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-186" value="&lt;div&gt;We have to make our users play a game&lt;/div&gt;&lt;div&gt;&amp;nbsp;to figure out what they want?&lt;/div&gt;&lt;div&gt;How far will it push back the schedule?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
