@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T19:27:54.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="HZhjmIrK5KtqMQ7bzoAN" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T19:37:32.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="rX4mOEZJPNQMMMToB8CP" version="23.1.2" type="github">
   <diagram name="Page-1" id="-9OaN-SIP8RixFKA_HIJ">
     <mxGraphModel dx="3022" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,42 +118,6 @@
         <mxCell id="4Fp51-22Ngi64o6ukii1-158" value="Will I still be able to write the code?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-144">
           <mxGeometry x="502.8813559322034" y="369.04761904761904" width="140.33898305084745" height="59.523809523809526" as="geometry" />
         </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-263" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="3750" width="640" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-264" value="&lt;b&gt;Fleshing out the Requirements&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="3805" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-265" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2020" y="3855" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-266" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="2162.5" y="3842.5" width="55" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-267" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="3895" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-268" value="User EXperience Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="3855" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-269" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="4035" width="60" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-270" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="4055" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-271" value="&lt;div&gt;What if we create a game,&amp;nbsp;&lt;/div&gt;&lt;div&gt;and allow users to submit feature&lt;/div&gt;&lt;div&gt;&amp;nbsp;requests that way?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
-          <mxGeometry x="2000" y="3945" width="230" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-272" value="&lt;div&gt;We have to make our users play a game&lt;/div&gt;&lt;div&gt;&amp;nbsp;to figure out what they want?&lt;/div&gt;&lt;div&gt;How far will it push back the schedule?&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
-          <mxGeometry x="2310" y="3775" width="260" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-273" value="&lt;div&gt;If the software fails after a few months,&amp;nbsp;&lt;/div&gt;&lt;div&gt;but we gathered requirements successfully,&lt;/div&gt;&lt;div&gt;&amp;nbsp;we can start again...maybe that is the &quot;game&quot;. ;-)&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="1">
-          <mxGeometry x="2250" y="3945" width="340" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-274" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="3875" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-287" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1570" y="2700" width="680" height="410" as="geometry" />
         </mxCell>
@@ -205,53 +169,8 @@
         <mxCell id="4Fp51-22Ngi64o6ukii1-200" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="4Fp51-22Ngi64o6ukii1-287">
           <mxGeometry x="415" y="150" width="42.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-288" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="2870" width="640" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-119" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry width="640" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-127" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-160" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="230" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-161" value="Compliance Officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="360" y="100" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-163" value="Hmmm...I need to review our security approval and see if we can do that... Who are these users?&amp;nbsp; What do you mean by worldwide?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="450" y="50" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-164" value="I wonder if they&#39;re going to have an argument?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="130" y="250" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-165" value="OMG!!&amp;nbsp; How soon can we turn on the Team Chat of our Zoom Account, for our users worldwide?!." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="195" y="80" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-166" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="290" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-167" value="Probably. Not interested. I have stuff I need to finish." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="320" y="250" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-168" value="&lt;b&gt;Users want something?&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry x="90" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-169" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="100" as="sourcePoint" />
-            <mxPoint x="440" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-170" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="4Fp51-22Ngi64o6ukii1-288">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="125" as="sourcePoint" />
-            <mxPoint x="190" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-289" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="1990" width="955" height="760" as="geometry" />
+          <mxGeometry x="20" y="3040" width="955" height="760" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-117" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-289">
           <mxGeometry x="53.75" y="180" width="870" height="580" as="geometry" />
@@ -395,7 +314,7 @@
           <mxGeometry x="310" y="210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-131" value="" style="group;fillColor=#DAE8FC;strokeColor=#6c8ebf;fillStyle=dots;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="450" y="1820" width="470" height="280" as="geometry" />
+          <mxGeometry x="200" y="1900" width="470" height="280" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-132" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-131">
           <mxGeometry width="469.99999999999994" height="280" as="geometry" />
@@ -452,7 +371,7 @@
           <mxGeometry x="374.99999999999994" y="70" width="115" height="135" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-292" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="3390" width="640" height="470" as="geometry" />
+          <mxGeometry x="160" y="4080" width="640" height="470" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-275" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-292">
           <mxGeometry width="640" height="470" as="geometry" />
@@ -485,7 +404,7 @@
           <mxGeometry x="290" y="133.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-295" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="3970" width="650" height="440" as="geometry" />
+          <mxGeometry x="160" y="4750" width="650" height="440" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-238" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-295">
           <mxGeometry width="650" height="440" as="geometry" />
@@ -518,7 +437,7 @@
           <mxGeometry x="262.5" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-296" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="4530" width="640" height="420" as="geometry" />
+          <mxGeometry x="170" y="5440" width="640" height="420" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-297" value="" style="group" vertex="1" connectable="0" parent="4Fp51-22Ngi64o6ukii1-296">
           <mxGeometry x="-10" y="-15" width="650" height="420" as="geometry" />
@@ -552,6 +471,123 @@
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-261" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-297">
           <mxGeometry x="245" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-288" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="2400" width="640" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-119" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry width="640" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-127" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="100" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-160" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="230" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-161" value="Compliance Officer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="360" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-163" value="Hmmm...I need to review our security approval and see if we can do that... Who are these users?&amp;nbsp; What do you mean by worldwide?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="450" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-164" value="I wonder if they&#39;re going to have an argument?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="130" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-165" value="OMG!!&amp;nbsp; How soon can we turn on the Team Chat of our Zoom Account, for our users worldwide?!." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="195" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-166" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="290" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-167" value="Probably. Not interested. I have stuff I need to finish." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="320" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-168" value="&lt;b&gt;Users want something?&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry x="90" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-169" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="100" as="sourcePoint" />
+            <mxPoint x="440" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-170" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="4Fp51-22Ngi64o6ukii1-288">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="125" as="sourcePoint" />
+            <mxPoint x="190" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-300" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="6110" width="670" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-263" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry width="660" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-264" value="&lt;b&gt;Fleshing out the Requirements&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="30" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-265" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="100" y="85" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-266" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="242.5" y="60" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-267" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="210" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-268" value="User EXperience Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="410" y="85" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-269" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="110" y="240" width="60" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-270" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="330" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-273" value="&lt;div&gt;If the software fails after a few months,&amp;nbsp;&lt;/div&gt;&lt;div&gt;but we gathered requirements successfully,&lt;/div&gt;&lt;div&gt;&amp;nbsp;we can start again...maybe that is the &quot;game&quot;. ;-)&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="330" y="175" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-274" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="240" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-298" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="4Fp51-22Ngi64o6ukii1-300">
+          <mxGeometry x="320" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-301" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="6850" width="670" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-302" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry width="660" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-303" value="&lt;b&gt;Fleshing out the Requirements&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="30" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-304" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="110" y="85" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-305" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="242.5" y="60" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-306" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="210" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-307" value="User EXperience Designer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="410" y="85" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-308" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="110" y="240" width="60" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-309" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="330" y="285" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-311" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="240" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-313" value="VERY FUNNY!&amp;nbsp; Dream on..." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="120" y="-10" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4Fp51-22Ngi64o6ukii1-314" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="4Fp51-22Ngi64o6ukii1-301">
+          <mxGeometry x="100" y="50" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
