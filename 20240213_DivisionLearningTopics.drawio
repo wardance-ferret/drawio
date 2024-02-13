@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T20:00:27.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="telpjTVcdTXyH47NpEpo" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T20:01:52.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="PM30BRiL5-3JyhPDEATr" version="23.1.2" type="github">
   <diagram name="Page-1" id="-9OaN-SIP8RixFKA_HIJ">
     <mxGraphModel dx="3233" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -622,8 +622,8 @@
         <mxCell id="4Fp51-22Ngi64o6ukii1-325" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-317">
           <mxGeometry x="350" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Fp51-22Ngi64o6ukii1-326" value="Hmmm...maybe creating a game is a bad idea.&lt;br&gt;&amp;nbsp; We&#39;d have to maintain and support the game as if it were the software itself!" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="4Fp51-22Ngi64o6ukii1-317">
-          <mxGeometry x="170" y="75" width="360" height="145" as="geometry" />
+        <mxCell id="4Fp51-22Ngi64o6ukii1-326" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hmmm...maybe creating a game is a bad idea.&lt;br&gt;&amp;nbsp; We&#39;d have to maintain and support the game as if it were the software itself!&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout" vertex="1" parent="4Fp51-22Ngi64o6ukii1-317">
+          <mxGeometry x="153.68" y="90" width="560" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4Fp51-22Ngi64o6ukii1-327" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Fp51-22Ngi64o6ukii1-317">
           <mxGeometry x="237.5" y="240" width="60" height="30" as="geometry" />
