@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T15:44:16.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="AHRAfktxlNIKk2Oo-1Zw" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T15:46:10.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="hpE-FHvfgsC8WLRgXRXQ" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -393,6 +393,30 @@
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-188" value="A Fire Pit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-190" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.052;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0Xk1uaQBG85P3Tt0JiG1-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="1370" as="sourcePoint" />
+            <mxPoint x="960" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-191" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="0Xk1uaQBG85P3Tt0JiG1-185">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1063.5" y="1420" as="sourcePoint" />
+            <mxPoint x="1146.5" y="1432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-192" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="0Xk1uaQBG85P3Tt0JiG1-180">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1177.5" y="1575" as="sourcePoint" />
+            <mxPoint x="1260.5" y="1587" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-193" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="1440" as="sourcePoint" />
+            <mxPoint x="1407.5" y="1550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
