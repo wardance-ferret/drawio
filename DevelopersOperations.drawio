@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T06:03:21.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="HpoGWDy2OfsmUC0ZxFUC" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T06:04:42.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="OCiVNC7Uucv0JbenHeYh" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -303,9 +303,6 @@
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-147" value="Can you set up this web server?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="890" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Xk1uaQBG85P3Tt0JiG1-149" target="0Xk1uaQBG85P3Tt0JiG1-157">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-149" value="Product Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1060" width="30" height="60" as="geometry" />
