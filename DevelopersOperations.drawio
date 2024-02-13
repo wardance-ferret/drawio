@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T05:40:11.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="mlMXsFYb2IqbwWGwYvzK" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T05:51:40.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="ybJJAmgg3uFpwOOuijLk" version="23.1.2" type="github">
   <diagram name="Page-1" id="3lLZawC0NmhBcoGWiqin">
     <mxGraphModel dx="1315" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-58" value="" style="group;fillColor=#DAE8FC;strokeColor=#6c8ebf;fillStyle=dots;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1100" y="70" width="370" height="220" as="geometry" />
+          <mxGeometry x="1090" y="60" width="370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
           <mxGeometry width="370" height="220" as="geometry" />
@@ -124,8 +124,8 @@
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-34" value="&lt;b&gt;The Wish&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
           <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-141" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
-          <mxGeometry x="160" y="50" width="90" height="60" as="geometry" />
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-148" value="System" style="icon;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="0Xk1uaQBG85P3Tt0JiG1-58">
+          <mxGeometry x="140" y="50" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-59" value="Other Developers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="30" height="60" as="geometry" />
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-105" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="880" width="640" height="380" as="geometry" />
+          <mxGeometry x="40" y="870" width="680" height="410" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-106" value="Superhub Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="360" width="30" height="60" as="geometry" />
@@ -296,10 +296,40 @@
           <mxGeometry x="105" y="930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-144" value="Product Stajkeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="920" width="30" height="60" as="geometry" />
+          <mxGeometry x="280" y="930" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Xk1uaQBG85P3Tt0JiG1-145" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="900" width="45" height="90" as="geometry" />
+          <mxGeometry x="450" y="910" width="45" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-147" value="Can you set up this web server?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="890" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-149" value="Product Stajkeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1060" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-151" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1030" width="45" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-153" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1160" width="45" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-154" value="Product Stajkeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-155" value="Add reporting to this inventory tracking application?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1010" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-157" value="I need some documentation on the system." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1140" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-158" value="You&#39;ll have to ask nicely, if you interrupt my flow, I might make a mistake..." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-159" value="Sure!" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="890" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Xk1uaQBG85P3Tt0JiG1-160" value="Just give me a few minutes.&amp;nbsp; I have some requirements in mind." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1010" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
